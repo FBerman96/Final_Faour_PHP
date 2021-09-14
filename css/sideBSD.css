@@ -1,0 +1,132 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;  
+  }
+  
+  nav, .content {
+    max-width:960px; /* an arbitrary width */
+    margin: 0 auto; /* center the elements */
+  }
+  
+  nav {
+    margin-top:20px; /* just a little bit of margin */
+    background: #292929;  
+  }
+  
+  .top-nav {
+    font-size:0; /* eliminates whitespace from inline-block*/
+  }
+  
+  .top-nav li {
+    display:inline-block; /* blocks just line up without floats */
+    width:20%; /* Just a number */
+    background: #292929;  
+    position:relative; /* sets positioning context for 2nd level menu */
+  }
+  
+  .top-nav > li.active > a {
+    color:green; /* just an active class - not required */
+  }
+  
+  .top-nav > li a {
+    text-decoration:none; /* removes underline */
+    font-size:24px; /* re-establish a font-size */
+    line-height:1.5em; /* centers the text vertically*/
+    text-align:center; /* centeres the text horizontally */
+    display:block; /* links now fill the block*/
+    color:lightgrey; 
+    
+  }
+  
+  
+  .top-nav > li > a {
+    /* groove type border effect */
+    border-left: 1px solid black; 
+    border-right: 1px solid #3c3c3c;
+    border-bottom: 1px solid black;
+    border-top: 1px solid #3c3c3c;
+  }
+  
+  
+  .top-nav > li > a:hover,
+  .sub-nav > li > a:hover,
+  .tert-nav > li > a:hover{
+    /* hover color for links */
+    color:red;
+  }
+  
+  .sub-nav { /* just a class name for 2nd level menus */
+    position:absolute;
+  /* positions the menu UNDER the list item*/
+    width:100%; 
+  /* makes the width of the menu the same as the list item */
+    visibility:hidden; 
+  /* hides the menu until needed */
+    
+  }
+  
+  .top-nav li:hover .sub-nav {
+    visibility:visible; 
+  /* shows the submenu when the list item is hovered */
+    
+  }
+  
+  .sub-nav > li, .sub-nav > li a{
+    display:block;
+    width:100%;
+    position:relative; 
+  /* sets positioning context for 3rd level menu */
+    background:lightblue; 
+  /* something different for example */
+    color:black;
+  }
+  
+  .sub-nav > li > a {
+    /* jsut some styling */
+    border: 1px solid #3c3c3c;
+    border-top:none;
+  }
+  
+  .sub-nav > li:last-child a {
+    border-bottom: 1px solid #3c3c3c;
+  }
+  
+  .tert-nav {
+    position:absolute; /* positions the 3rd level menu */
+    width:100%;
+    visibility:hidden; /* hides the menu until required */
+  }
+  
+  .sub-nav li:hover .tert-nav {
+    visibility:visible; /* shows the menu when list item is hovered */
+    display:block;
+    width:100%;
+    position:absolute;  /* positions the list items of 3rd level menu */
+    top:0; /* lines up the menu with the list item */
+    left:100%; /* pushes the list item over to the right side */
+    margin-top:-1px; /* aligning after borders */
+    border-left:1px solid transparent; /* just add a gap */
+  }
+  
+  .tert-nav > li, .tert-nav > li > a {
+    display:block;
+    width:100%;
+    background:#bada55; /* another level, another color */
+  }
+  
+  .tert-nav > li > a {
+    /* jsut some styling */
+    border: 1px solid #3c3c3c;
+    border-bottom:none;
+  }
+  
+  .tert-nav > li:last-child a {
+    border-bottom: 1px solid #3c3c3c;
+  }
+  
+  .content {
+    height:250px;
+    background:lightgrey;
+    padding:10px;
+  }
