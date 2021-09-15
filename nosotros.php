@@ -41,7 +41,7 @@
 
     <!--HEADER-->
 
-    <div class="hero-2" style="background-image: url('images/vino_amigos.jpg');">
+    <div class="hero-2" style="background-image: url('images/banner02.jpg');">
      <div class="container">
         <div class="row justify-content-center text-center align-items-center">
           <div class="col-md-8">
