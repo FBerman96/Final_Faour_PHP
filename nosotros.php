@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-  <title>Wines &mdash; Website Template by Colorlib</title>
+  <title>Resident Evil Village &mdash; Website Template by Fernando Faour</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -88,7 +88,7 @@
             <div class="block-16">
               <figure>
                 <img src="images/village01.jpg" alt="Image placeholder" class="img-fluid">
-                <a href="https://www.youtube.com/watch?v=CsRFVyoHKoY&ab_channel=Xbox" class="play-button popup-vimeo" data-fancybox><span
+                <a href="https://www.youtube.com/watch?v=9AY6l195O80" class="play-button popup-vimeo" data-fancybox><span
                     class="icon-play"></span></a>
     
               </figure>

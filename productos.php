@@ -1,18 +1,17 @@
 <?php
 
-        include_once 'funcionesGaby.php';
+        include_once 'funciones.php';
 
 
       $producto = array (
       0=> array (
           'id_producto' => '123465',    
-          'nombre' => 'De sangre',
-          'cepa' => 'Malbec',
-          'marca' => 'Luigi Bosca',
-          'precio' => '$580',
+          'nombre' => 'The Last Of Us Parte II',
+          'marca' => 'Playstation',
+          'precio' => '$4000',
           'Descripcion' => 'lorem impsum dolor sit amet',
           'destacado' => TRUE,
-          'raiting' => 4,
+          'raiting' => 5,
           'cantidad' => 10,
 
       ),  
