@@ -87,8 +87,8 @@
           <div class="col-md-6 order-md-2">
             <div class="block-16">
               <figure>
-                <img src="images/viniedo_argentina.jpg" alt="Image placeholder" class="img-fluid">
-                <a href="https://www.youtube.com/watch?v=NkhaSvJJ2b0" class="play-button popup-vimeo" data-fancybox><span
+                <img src="images/village01.jpg" alt="Image placeholder" class="img-fluid">
+                <a href="https://www.youtube.com/watch?v=CsRFVyoHKoY&ab_channel=Xbox" class="play-button popup-vimeo" data-fancybox><span
                     class="icon-play"></span></a>
     
               </figure>
@@ -98,10 +98,18 @@
     
     
             <div class="site-section-heading pt-3 mb-4">
-              <h2 class="text-black font-heading-serif">Wines For You All</h2>
+              <h2 class="text-black font-heading-serif">Resident Evil Village</h2>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus consequuntur hic quaerat cupiditate tempore temporibus nulla at eum!</p>
-            <p>Magni debitis minima ipsam, itaque nam eligendi iusto? Adipisci blanditiis itaque ipsam cupiditate architecto, dolore saepe placeat culpa.</p>
+            <p>Llega la nueva generación de "survival horror" con Resident Evil Village, la octava entrega de su historia principal.
+              Disfruta de sus gráficos ultrarrealistas (generados con el RE Engine)
+              y lucha por sobrevivir frente a los peligros que acechan en cada esquina.
+            </p>
+            <p>Situado unos años más tarde de los terroríficos acontecimientos del laureado Resident Evil 7 biohazard,
+              esta nueva historia empieza con Ethan Winters y su mujer Mia viviendo en paz en un nuevo lugar,
+              libres de las pesadillas del pasado. Pero, en el mismo momento en que empiezan a construir su nueva vida juntos,
+              la tragedia se cierne de nuevo sobre ellos. Cuando su casa se ve atacada por Chris Redfield, el capitán de la BSAA,
+              Ethan debe adentrarse en los infiernos una vez más para traer de vuelta a su hija secuestrada.
+            </p>
             
             
     
