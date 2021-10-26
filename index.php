@@ -92,14 +92,14 @@
             <div class="wine_v_1 text-center pb-4">
               <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/sony03.jpg" alt="Image" class="img-fluid"></a>
               <div>
-                <h3 class="heading mb-1"><a href="#">Star Wars Knights of the Old Republic</a></h3>
+                <h3 class="heading mb-1"><a href="#">Horizon Zero Dawn</a></h3>
                 <span class="price d-block"><del>$900.00</del> $629.00</span>
               </div>
               
 
               <div class="wine-actions">
                   
-                <h3 class="heading-2"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading-2"><a href="#">Horizon Zero Dawn</a></h3>
                 <span class="price d-block">$629.00</span>
                 
                 <div class="rating">
@@ -118,16 +118,16 @@
 
           <div class="col-lg-4 mb-5 col-md-6">
             <div class="wine_v_1 text-center pb-4">
-              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/wine_3.png" alt="Image" class="img-fluid"></a>
+              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/Halo5.jpg" alt="Image" class="img-fluid"></a>
               <div>
-                <h3 class="heading mb-1"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading mb-1"><a href="#">Halo 5: Guardians</a></h3>
                 <span class="price">$629.00</span>
               </div>
               
 
               <div class="wine-actions">
                   
-                <h3 class="heading-2"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading-2"><a href="#">>Halo 5: Guardians</a></h3>
                 <span class="price d-block"><del>$900.00</del> $629.00</span>
                 
                 <div class="rating">
@@ -145,16 +145,16 @@
           </div>
           <div class="col-lg-4 mb-5 col-md-6">
             <div class="wine_v_1 text-center pb-4">
-              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/wine_3.png" alt="Image" class="img-fluid"></a>
+              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/MilesMorales.jpg" alt="Image" class="img-fluid"></a>
               <div>
-                <h3 class="heading mb-1"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading mb-1"><a href="#">Spiderman: Miles Morales</a></h3>
                 <span class="price">$629.00</span>
               </div>
               
 
               <div class="wine-actions">
                   
-                <h3 class="heading-2"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading-2"><a href="#">Spiderman: Miles Morales</a></h3>
                 <span class="price d-block"><del>$900.00</del> $629.00</span>
                 
                 <div class="rating">
@@ -172,16 +172,16 @@
           </div>
           <div class="col-lg-4 mb-5 col-md-6">
             <div class="wine_v_1 text-center pb-4">
-              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/wine_3.png" alt="Image" class="img-fluid"></a>
+              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/doom.jpg" alt="Image" class="img-fluid"></a>
               <div>
-                <h3 class="heading mb-1"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading mb-1"><a href="#">Doom Eternal</a></h3>
                 <span class="price">$629.00</span>
               </div>
               
 
               <div class="wine-actions">
                   
-                <h3 class="heading-2"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading-2"><a href="#">Doom Eternal</a></h3>
                 <span class="price d-block"><del>$900.00</del> $629.00</span>
                 
                 <div class="rating">
@@ -199,16 +199,16 @@
           </div>
           <div class="col-lg-4 mb-5 col-md-6">
             <div class="wine_v_1 text-center pb-4">
-              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/wine_3.png" alt="Image" class="img-fluid"></a>
+              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/RE_Village.jpg" alt="Image" class="img-fluid"></a>
               <div>
-                <h3 class="heading mb-1"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading mb-1"><a href="#">Resident Evil: Village</a></h3>
                 <span class="price">$629.00</span>
               </div>
               
 
               <div class="wine-actions">
                   
-                <h3 class="heading-2"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading-2"><a href="#">Resident Evil: Village</a></h3>
                 <span class="price d-block"><del>$900.00</del> $629.00</span>
                 
                 <div class="rating">
@@ -226,16 +226,16 @@
           </div>
           <div class="col-lg-4 mb-5 col-md-6">
             <div class="wine_v_1 text-center pb-4">
-              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/wine_1.png" alt="Image" class="img-fluid"></a>
+              <a href="shop-single.html" class="thumbnail d-block mb-4"><img src="images/Ratchet_Clank.jpg" alt="Image" class="img-fluid"></a>
               <div>
-                <h3 class="heading mb-1"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading mb-1"><a href="#">Ratchet And Clank: Rift Apart</a></h3>
                 <span class="price">$629.00</span>
               </div>
               
 
               <div class="wine-actions">
                   
-                <h3 class="heading-2"><a href="#">Trius Cabernet France 2011</a></h3>
+                <h3 class="heading-2"><a href="#">Ratchet And Clank: Rift Apart</a></h3>
                 <span class="price d-block"><del>$900.00</del> $629.00</span>
                 
                 <div class="rating">

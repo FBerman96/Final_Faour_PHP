@@ -5,7 +5,7 @@
 
       $producto = array (
       0=> array (
-          'id_producto' => '123465',    
+          'id_producto' => '1',    
           'nombre' => 'The Last Of Us Parte II',
           'marca' => 'Playstation',
           'precio' => '$4000',
